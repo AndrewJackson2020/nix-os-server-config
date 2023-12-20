@@ -73,6 +73,7 @@ services.gitea = {
       wget
       python3
       git
+      emacs
       terraform
       gh
   ];
